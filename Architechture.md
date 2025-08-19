@@ -1,3 +1,21 @@
+# 🧠 LangGraph Chatbot with Groq LLM + Wikipedia Tool
+
+This project is a **LangGraph-based conversational chatbot** that uses **Groq LLaMA models** as the reasoning engine and integrates a **Wikipedia tool** for retrieving factual information.  
+
+---
+
+## 🚀 Features
+- Uses **LangGraph** to manage conversational flow.
+- Integrates **Groq LLaMA 3.1 8B-Instant** as the LLM.
+- Includes a **Wikipedia API wrapper** as an external knowledge tool.
+- Maintains **conversation state** across messages.
+- Provides **modular and extensible architecture** (easily add more tools).
+
+---
+
+## 🏗️ Solution Architecture
+
+```text
 +--------------------------------------------------------+
 |                        User                            |
 |   (Sends query: "Who is Virat Kohli?")                 |
