@@ -23,7 +23,7 @@ The chatbot workflow is represented as a directed graph:
 
 ### Architecture Flowchart
 
-![Chatbot Architecture](/mnt/data/A_flowchart_diagram_in_digital_2D_illustrates_a_ch.png)
+![Chatbot Architecture](graph.png)
 
 ## Implementation Details
 
